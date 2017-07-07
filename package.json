@@ -1,5 +1,5 @@
 {
-  "name": "nk-css-reset",
+  "name": "css-reset",
   "version": "1.0.1",
   "description": "CSS reset",
   "main": "index.css",
